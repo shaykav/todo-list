@@ -1,0 +1,45 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+tbody {
+  color: white;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+th {
+  color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: white;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: white;
+  background-color: #000;
